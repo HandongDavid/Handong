@@ -1,2 +1,0 @@
-# Handong
-OODP FINAL
